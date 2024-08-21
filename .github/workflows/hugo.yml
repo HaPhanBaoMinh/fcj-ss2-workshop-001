@@ -55,7 +55,7 @@ jobs:
         run: |
           hugo \
             --minify \
-            --baseURL "${{ steps.pages.outputs.base_url }}/"
+            --baseURL "https://haphanbaominh.github.io/fcj-ss2-workshop-001/"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
