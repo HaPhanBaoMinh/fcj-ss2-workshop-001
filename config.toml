@@ -52,4 +52,4 @@ identifier = "AWS Study Group FB"
 url = "https://www.facebook.com/groups/awsstudygroupfcj"
 weight = 20
 
-baseURL = "https://haphanbaominh.github.io/fcj-ss2-workshop-001"
+canonifyURLs = true
