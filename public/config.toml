@@ -15,28 +15,10 @@ home = [ "HTML", "RSS", "JSON"]
   showVisitedLinks = true
   disableBreadcrumb = false
   disableNextPrev = false
-  imagePrefix = "fcj-ss2-workshop-001/"
   
 [Languages]
-[Languages.en]
-title = "Installing and Deploying Your First Service with Kubernetes"
-weight = 1
-languageName = "English"
-
-[[Languages.en.menu.shortcuts]]
-name = "<i class='fab fa-aws'></i> AWS Study Group - Blog"
-identifier = "AWS Study Group"
-url = "https://aws.amazon.com/blogs"
-weight = 20
-
-[[Languages.en.menu.shortcuts]]
-name = "<i class='fab fa-facebook'></i> AWS Study Group - FB Group"
-identifier = "AWS Study Group FB"
-url = "https://www.facebook.com/groups/awsstudygroupfcj"
-weight = 20
-
 [Languages.vi]
-title = "Cài đặt và Triển khai Dịch vụ Đầu tiên của Bạn với Kubernetes"
+title = "Xây dựng quy trình CI/CD với CodePipeline"
 weight = 2
 languageName = "Tiếng Việt"
 
@@ -52,4 +34,22 @@ identifier = "AWS Study Group FB"
 url = "https://www.facebook.com/groups/awsstudygroupfcj"
 weight = 20
 
-baseURL = "https://haphanbaominh.github.io/fcj-ss2-workshop-001"
+[Languages.en]
+title = "Start with Amazon VPC and AWS VPN Site-to-Site."
+weight = 1
+languageName = "English"
+
+[[Languages.en.menu.shortcuts]]
+name = "<i class='fab fa-aws'></i> AWS Study Group - Blog"
+identifier = "AWS Study Group"
+url = "https://aws.amazon.com/blogs"
+weight = 20
+
+[[Languages.en.menu.shortcuts]]
+name = "<i class='fab fa-facebook'></i> AWS Study Group - FB Group"
+identifier = "AWS Study Group FB"
+url = "https://www.facebook.com/groups/awsstudygroupfcj"
+weight = 20
+
+
+
