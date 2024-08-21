@@ -6,7 +6,7 @@ chapter: false
 pre: "<b> 1.6 </b>"
 ---
 
-![Overview](/images/1-Basic_concepts./07.png)
+![Overview](/fcj-ss2-workshop-001/images/1-Basic_concepts./07.png)
 
 ## 1. Service
 
@@ -21,4 +21,3 @@ There are four main types of services, and we will explore each type in more det
 - **LoadBalancer**: Used to expose services externally by utilizing the LoadBalancer of cloud providers.
 
 - **ExternalName**
-    
